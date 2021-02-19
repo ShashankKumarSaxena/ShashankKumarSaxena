@@ -2,8 +2,6 @@
 
 [![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankKumarSaxena&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankKumarSaxena&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - 🔭 I’m currently working on -> Python,Ruby,Javascript
 - 🌱 I’m currently learning -> Javascript
@@ -19,6 +17,8 @@
 - 👉 What I wanna persue in future - Well coding again
 - 👉 My age - 🤫 Its a secret
 - 👉 What I am doing right now? - Making discord bots
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankKumarSaxena&langs_count=50&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 -> Anything else remaining?
 <img src="https://cdn.discordapp.com/attachments/797850617842237460/812306861440237578/unknown.png">
