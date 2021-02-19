@@ -3,12 +3,12 @@
 <!--
 **ShashankKumarSaxena/ShashankKumarSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Wanna know about me? -
-So here I have compiled myself -
-👉 My hobbies - Coding obviously
-👉 What I wanna persue in future - Well coding again
-👉 My age - 🤫 Its a secret
-👉 What I am doing right now? - Making discord bots
+- Wanna know about me? -
+- So here I have compiled myself -
+- 👉 My hobbies - Coding obviously
+- 👉 What I wanna persue in future - Well coding again
+- 👉 My age - 🤫 Its a secret
+- 👉 What I am doing right now? - Making discord bots
 
 - 🔭 I’m currently working on ... Python,Ruby,Javascript
 - 🌱 I’m currently learning ... Javascript
