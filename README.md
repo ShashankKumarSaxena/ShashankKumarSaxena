@@ -3,6 +3,7 @@
 <!--
 **ShashankKumarSaxena/ShashankKumarSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankKumarSaxena)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on ... Python,Ruby,Javascript
@@ -20,8 +21,3 @@
 - 👉 My age - 🤫 Its a secret
 - 👉 What I am doing right now? - Making discord bots
 
---> Anything else remaining?
-
-<img src="https://media.discordapp.net/attachments/797850617842237460/812306861440237578/unknown.png"></img>
-
-- This is my official youtube channel. Go and check some videos. Don't forget to sub, please
