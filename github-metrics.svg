@@ -1636,7 +1636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Gelbpunkt/gateway-proxy</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drop-in proxy for Discord gateway connections and sessions allowing for zero downtime deploys</div>
@@ -2464,7 +2464,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2022, 23:45:20 (timezone Asia/Kolkata) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 00:07:10 (timezone Asia/Kolkata) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
