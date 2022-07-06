@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1343 Commits
+                            1344 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -378,14 +378,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.0744851671705" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="281.0744851671705" y="0" width="106.67937600203086" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="387.75386116920134" y="0" width="17.1871225760763" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="404.94098374527766" y="0" width="16.962680807137275" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="421.90366455241497" y="0" width="11.923039100307218" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.8267036527222" y="0" width="11.54769718262707" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="445.37440083534926" y="0" width="8.355476906102494" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.7298777414518" y="0" width="6.270122258548302" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.0094742730804" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="281.0094742730804" y="0" width="106.65470168265698" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="387.6641759557374" y="0" width="17.18314729456029" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="404.8473232502977" y="0" width="16.993177232208602" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="421.8405004825063" y="0" width="11.94570894665786" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.78620942916416" y="0" width="11.545026267413697" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.33123569657783" y="0" width="8.353544332877672" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.6847800294555" y="0" width="6.315219970544488" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twilight-rs/http-proxy</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ratelimited Discord HTTP API proxy.</div>
@@ -2434,7 +2434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 10:57:24 (timezone Asia/Kolkata) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 11:14:33 (timezone Asia/Kolkata) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
