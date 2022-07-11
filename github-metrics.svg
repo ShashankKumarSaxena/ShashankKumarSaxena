@@ -1587,7 +1587,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twilight-rs/http-proxy</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ratelimited Discord HTTP API proxy.</div>
@@ -2434,7 +2434,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2022, 11:01:45 (timezone Asia/Kolkata) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 11:13:42 (timezone Asia/Kolkata) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
