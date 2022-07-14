@@ -1602,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>interactions-py/library</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy, simple, scalable and modular: a Python API wrapper for interactions.</div>
@@ -1655,7 +1655,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/discord-interactions-python</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Useful tools for building interactions in Python</div>
@@ -2230,7 +2230,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 789k out of 94m users</span>
+                                    <span class="gh">ranked 790k out of 94m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -2483,7 +2483,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2022, 17:55:30 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Jul 2022, 18:35:13 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
