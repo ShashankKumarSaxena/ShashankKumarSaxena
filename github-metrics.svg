@@ -1595,7 +1595,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>interactions-py/library</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy, simple, scalable and modular: a Python API wrapper for interactions.</div>
@@ -1648,7 +1648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>discord/discord-interactions-python</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Useful tools for building interactions in Python</div>
@@ -2511,7 +2511,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2022, 17:47:53 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 18:32:37 (timezone Asia/Kolkata) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
