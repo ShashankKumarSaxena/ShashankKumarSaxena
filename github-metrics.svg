@@ -1645,7 +1645,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>questdb/questdb</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source time-series database for fast ingest and SQL queries</div>
@@ -1698,7 +1698,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openteamsinc/closember</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2544,7 +2544,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 16:53:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 17:00:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
