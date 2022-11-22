@@ -1713,7 +1713,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doyensec/inql</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InQL - A Burp Extension for GraphQL Security Testing</div>
@@ -1766,7 +1766,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GerbenJavado/LinkFinder</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script that finds endpoints in JavaScript files</div>
@@ -2561,7 +2561,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2022, 01:27:24 (timezone Asia/Kolkata) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 23 Nov 2022, 01:38:40 (timezone Asia/Kolkata) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
