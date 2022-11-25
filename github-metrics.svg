@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>awslabs/git-secrets</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prevents you from committing secrets and credentials into git repositories</div>
@@ -1638,7 +1638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustScan/RustScan</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 The Modern Port Scanner 🤖</div>
@@ -1691,7 +1691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doyensec/inql</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">InQL - A Burp Extension for GraphQL Security Testing</div>
@@ -1744,7 +1744,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GerbenJavado/LinkFinder</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A python script that finds endpoints in JavaScript files</div>
@@ -2505,7 +2505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2022, 21:29:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 21:47:34 (timezone Asia/Kolkata) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
