@@ -1602,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>payloadbox/xss-payload-list</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List</div>
@@ -2512,7 +2512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2023, 13:39:56 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Apr 2023, 13:57:24 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
