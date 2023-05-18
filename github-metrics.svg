@@ -1711,7 +1711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>payloadbox/xss-payload-list</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List</div>
@@ -2315,7 +2315,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.66m out of 402m repositories</span>
+                                    <span class="gh">ranked 1.70m out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2520,7 +2520,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2023, 20:52:59 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 May 2023, 20:58:23 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
