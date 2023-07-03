@@ -1602,7 +1602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EdOverflow/can-i-take-over-xyz</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.</div>
@@ -1987,7 +1987,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 453k out of 119m users</span>
+                                    <span class="gh">ranked 424k out of 119m users</span>
                                 </div>
                                 <div class="text">Published 58 public repositories</div>
                             </div>
@@ -2507,7 +2507,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2023, 05:30:58 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jul 2023, 06:57:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
