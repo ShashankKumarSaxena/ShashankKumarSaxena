@@ -4,7 +4,10 @@
 
 #### My stats
 
-<img align="center" src="/github-metrics.svg" alt="Shashank's github stats">
+<!-- <img align="center" src="/github-metrics.svg" alt="Shashank's github stats"> -->
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 <!-- ![Metrics](https://metrics.lecoq.io/ShashankKumarSaxena) -->
 
 #### My Badges
