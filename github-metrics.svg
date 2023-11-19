@@ -1619,7 +1619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cyb3rzest/Burp-Suite-Pro</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A bash and powershell script to download the latest version of Burp-Suite Professional and use it for free.</div>
@@ -2122,7 +2122,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 373k out of 58.3m repositories</span>
+                                    <span class="gh">ranked 373k out of 56.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 86 stars</div>
                             </div>
@@ -2327,7 +2327,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2023, 15:58:51 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Nov 2023, 16:08:21 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
