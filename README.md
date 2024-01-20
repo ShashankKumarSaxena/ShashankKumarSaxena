@@ -12,8 +12,7 @@
 
 #### My Badges
 
-[![@scypher's Holopin board](https://holopin.io/api/user/board?user=scypher)](https://holopin.io/@scypher)
-
+[![@Shashank's Holopin board](https://holopin.io/api/user/board?user=scypher)](https://holopin.io/@scypher)
 **Novu Contributor Badge**:
 
 <a href="https://novu.co/contributors/ShashankKumarSaxena/"><img src="https://contributors.novu.co/profiles/ShashankKumarSaxena-small.jpg" height="170" width="450" alt="" /></a>
