@@ -1619,7 +1619,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Naetw/CTF-pwn-tips</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Here record some tips about pwn. Something is obsoleted and won't be updated. Sorry about that.</div>
@@ -1660,7 +1660,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vitalysim/Awesome-Hacking-Resources</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of hacking / penetration testing resources to make you better!</div>
@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>InfoSecIITR/tools</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2216,7 +2216,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 384k out of 88.1m repositories</span>
+                                    <span class="gh">ranked 384k out of 84.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 87 stars</div>
                             </div>
@@ -2262,7 +2262,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.84m out of 88.1m repositories</span>
+                                    <span class="gh">ranked 1.84m out of 84.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2467,7 +2467,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2024, 23:20:15 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Mar 2024, 23:45:13 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
