@@ -6,7 +6,7 @@
 
 <!-- <img align="center" src="/github-metrics.svg" alt="Shashank's github stats"> -->
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" align="center">
 </picture>
 <!-- ![Metrics](https://metrics.lecoq.io/ShashankKumarSaxena) -->
 
