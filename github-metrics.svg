@@ -1564,7 +1564,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1N3/IntruderPayloads</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 20 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.</div>
@@ -1810,7 +1810,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2025, 02:20:06 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Apr 2025, 02:45:08 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
