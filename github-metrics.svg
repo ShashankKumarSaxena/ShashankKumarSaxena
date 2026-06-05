@@ -1567,7 +1567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shuvonsec/claude-bug-bounty</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.</div>
@@ -1810,7 +1810,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2026, 09:01:04 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Jun 2026, 13:24:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
