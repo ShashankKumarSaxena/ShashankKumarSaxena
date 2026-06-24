@@ -1541,7 +1541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0liverFlow/CVE2PoC</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CVE2PoC is a tool that helps penetration testers, bug hunters, and security researchers quickly find public exploits or PoCs related to a CVE ID</div>
@@ -1843,7 +1843,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2026, 03:15:49 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Jun 2026, 04:25:07 (timezone Asia/Kolkata) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
